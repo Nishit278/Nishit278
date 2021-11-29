@@ -28,7 +28,8 @@
 
 
 ## My activities
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishit278&theme=aura)](https://git.io/praveenscience)
+  
+![Nishit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishit278&theme=aura)
 ![Nishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishit278&show_icons=true&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishit278&theme=midnight-purple&layout=compact&hide_border=true)
 
