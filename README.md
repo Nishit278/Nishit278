@@ -29,19 +29,9 @@
 
 ## My activities
 [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishit278&theme=aura)](https://git.io/praveenscience)
-
 ![Nishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishit278&show_icons=true&theme=midnight-purple&hide_border=true)
-
-
-<!-- 
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishit278&theme=midnight-purple&layout=compact&hide_border=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nishit278&theme=midnight-purple&hide_border=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true)
