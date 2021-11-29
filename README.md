@@ -30,8 +30,11 @@
 ## My activities
   
 ![Nishit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishit278&theme=aura)
+  
 ![Nishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishit278&show_icons=true&theme=midnight-purple&hide_border=true)
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishit278&theme=midnight-purple&layout=compact&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nishit278&theme=midnight-purple&hide_border=true)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true)
