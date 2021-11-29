@@ -1,4 +1,4 @@
-<h2> Hello Fellow, My name is Nishit Bansal <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h2> Hello there, My name is Nishit Bansal <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 <img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
