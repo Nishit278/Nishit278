@@ -42,6 +42,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishit278&theme=midnight-purple&layout=compact&hide_border=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nishit278&theme=midnight-purple&hide_border=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true)
