@@ -3,9 +3,9 @@
 </p>
 <img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-📚 A 20 y/o junior, pursuing B.Tech. in Computer science at [IILM College of Engineering and Technology](https://www.iilmcet.ac.in/).
+📚 A 21 y/o senior, pursuing B.Tech. in Computer science at [IILM College of Engineering and Technology](https://www.iilmcet.ac.in/).
 
-I like Anime, memes, finance and history.
+Apart for programming I'm interested in Geopolitics, History and Finance.
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/nishit-bansal-b040521b8/">
