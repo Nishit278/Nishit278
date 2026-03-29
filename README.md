@@ -3,12 +3,11 @@
 </p>
 <img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-📚 A 22 y/o Software Development Engineer currently working at [Flatmate.in](https://www.flatemate.in), completed B.Tech. in Computer science at [IILM College of Engineering and Technology](https://www.iilmcet.ac.in/).
+📚 I'm Software Engineer with 2.5 years of experience, currently working at [Saksoft Pvt. Ltd.](https://www.linkedin.com/company/saksoft/posts/?feedView=all), previously worked at [Flatmate.in](https://www.flatemate.in). I completed B.Tech. in Computer science at [IILM College of Engineering and Technology](https://www.iilmcet.ac.in/).
 
-Apart for programming I'm interested in Geopolitics, History and Finance.
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/nishit-bansal-b040521b8/">
+<a href="https://www.linkedin.com/in/nishit-bansal/">
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> 
 <a href="mailto:nishitbnsl@gmail.com ">
 <img src="https://img.icons8.com/color/50/000000/gmail-new.png"/>
